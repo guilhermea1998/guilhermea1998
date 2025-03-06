@@ -21,5 +21,5 @@
 
 📫 **Vamos nos conectar?**  
 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-almir-nieva-765904149/)  
-📧 E-mail: [guilhermenieva@gmail.com](mailto:guilhermenieva@gmail.com?subject=Gostaria de me conectar com você&body=Olá Guilherme, estou interessado(a) em me conectar com você para explorar oportunidades de colaboração e networking!)  
+📧 **E-mail**: [guilhermenieva@gmail.com](mailto:guilhermenieva@gmail.com?subject=Gostaria de me conectar com você&body=Olá Guilherme, estou interessado(a) em me conectar com você para explorar oportunidades de colaboração e networking!)  
 📱 [WhatsApp 11 94477-6086](https://wa.me/5511944776086)  
