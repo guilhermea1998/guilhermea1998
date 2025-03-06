@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/guilhermea1998/guilhermea1998/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/guilhermea1998/guilhermea1998/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 💡 Sempre em busca de aprendizado e novos desafios, estou me dedicando ao desenvolvimento na área de tecnologia e aberto a novas oportunidades para crescer profissionalmente.  
