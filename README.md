@@ -22,4 +22,4 @@
 📫 **Vamos nos conectar?**  
 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-almir-nieva-765904149/)  
 📧 [E-mail](mailto:guilhermenieva@gmail.com?subject=Gostaria de me conectar com você&body=Olá Guilherme, estou interessado(a) em me conectar com você para explorar oportunidades de colaboração e networking!)  
-📱 <a href="https://wa.me/5511944776086" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/WhatsApp_icon.png" alt="WhatsApp" width="20"/> 11 94477-6086</a>  
+📱 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/WhatsApp_icon.png" alt="WhatsApp" width="20"/> 11 94477-6086](https://wa.me/5511944776086)  
