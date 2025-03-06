@@ -21,5 +21,5 @@
 
 📫 **Vamos nos conectar?**  
 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-almir-nieva-765904149/)  
-📧 **E-mail**: [guilhermenieva@gmail.com](mailto:guilhermenieva@gmail.com)  
+📧 **E-mail**: [nievaguilherme@gmail.com](mailto:nievaguilherme@gmail.com)  
 📱 [WhatsApp 11 94477-6086](https://wa.me/5511944776086)  
